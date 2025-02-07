@@ -1,0 +1,5 @@
+getgenv().petsGoConfig = {
+    CONSUME_CORRUPTED_HUGE_BAIT = true,
+    CONSUME_ALL_ENCHANT_SAFE = true,
+    CONSUME_ALL_MINING_CHEST = true,
+    CONSUME_EVENT_GIFT_BAG = fals
